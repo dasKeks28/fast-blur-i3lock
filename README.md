@@ -30,7 +30,7 @@ Following packages must be installed:
 * i3lock
 
 ## :gear: Usage
-* Place the `i3lock.sh` in a directory your choice, for example in `~/scripts/`
+* Place the `i3lock.sh` in a directory of your choice, for example in `~/scripts/`
 * Set a keyboard shortcut to the script, depending on your desktop environment\
   For example:
   * _i3_: In your `~/.config/i3/config` (or `~/.i3/config`) add `bindsym $mod+l exec ~/scripts/i3lock.sh`
